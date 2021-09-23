@@ -1,0 +1,32 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    a {
+        @apply text-accent
+    }
+    a.selected {
+        @apply font-semibold
+    }
+    ul, ol {
+        @apply list-inside
+    }
+    code {
+        @apply text-accent
+    }
+    table {
+        @apply my-4
+    }
+    th, td {
+        @apply border-t-2
+    }
+}
+
+@layer utilities {
+    .change {
+        color: transparent;
+    }
+}
+
+[x-cloak] { display: none !important; }
