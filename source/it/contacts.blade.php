@@ -43,7 +43,7 @@ show_title: true
     </x-box>
 
     <x-box title="Messaggistica">
-        <ul class="fa-ul">
+        <ul class="fa-ul text-base leading-relaxed mt-0 mb-4 text-primary">
             <li>
           <span class="fa-li">
             <i class="fab fa-telegram"></i>
@@ -55,7 +55,7 @@ show_title: true
     </x-box>
 
     <x-box title="Chiave PGP">
-        <ul class="fa-ul">
+        <ul class="fa-ul text-base leading-relaxed mt-0 mb-4 text-primary">
             <li>
           <span class="fa-li">
             <i class="fa fa-download"></i>
