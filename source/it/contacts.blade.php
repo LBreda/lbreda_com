@@ -54,7 +54,7 @@ show_title: true
         </ul>
     </x-box>
 
-    <x-box class="Chiave PGP">
+    <x-box title="Chiave PGP">
         <ul class="fa-ul">
             <li>
           <span class="fa-li">
