@@ -13,7 +13,7 @@ show_title: true
           <span class="fa-li">
             <i class="fab fa-github"></i>
           </span>
-                <a href="http://github.com/lbreda" rel="me">GitHub</a>
+                <a href="https://github.com/lbreda" rel="me">GitHub</a>
             </li>
             <li>
           <span class="fa-li">
