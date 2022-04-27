@@ -83,7 +83,7 @@
 
 <script type="application/ld+json">
         {
-          "@context": "http://schema.org/",
+          "@context": "https://schema.org/",
           "@type": "Person",
           "name": "Lorenzo Breda",
           "familyName": "Breda",
@@ -92,6 +92,14 @@
           "nationality": {
             "@type": "Country",
             "name": "Italy"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+              "@type": "Country",
+                "name": "Italy"
+              },
+              "addressLocality": "Rome"
           },
           "url": "https://www.lbreda.com",
           "birthDate": "1988-04-07",
@@ -107,9 +115,35 @@
             }
           },
           "image": "https://lbreda.com/img/foto.jpg",
-          "jobTitle": "Full-stack Web Developer",
-          "vatID": "IT13225651002"
+          "jobTitle": "Full-stack Engineer",
+          "vatID": "IT13225651002",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "occupationalCategory": {
+              "@type": "CategoryCode",
+              "name": "BLS O*NET-SOC 15-1252.00",
+              "description": "Software Developers"
+            },
+            "occupationLocation": {
+              "@type": "AdministrativeArea",
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                  "@type": "Country",
+                  "name": "Italy"
+                },
+                "addressLocality": "Rome"
+              }
+            }
+          },
+          "worksFor": {
+            "@type": "Organization",
+            "name: "TwoBeeSolution S.r.l.",
+            "vatID": "IT11254281006",
+            "url": https://www.twobeesolution.com/",
+          }
         }
+
 
 
 </script>
