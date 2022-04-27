@@ -138,7 +138,7 @@ show_title: true
             <p>In caso di servizi erogati da terze parti, l'Utente può inoltre esercitare il proprio diritto ad opporsi
                 al tracciamento informandosi tramite la privacy policy della terza parte, tramite il link di opt out se
                 esplicitamente fornito o contattando direttamente la stessa.</p>
-            <p>Ci si può inoltre avvalere del servizio <a href="http://www.youronlinechoices.com/">Your Online
+            <p>Ci si può inoltre avvalere del servizio <a href="https://www.youronlinechoices.com/">Your Online
                     Choices</a> che permette di gestire le preferenze di tracciamento della maggior parte degli
                 strumenti pubblicitari.</p>
         </div>
