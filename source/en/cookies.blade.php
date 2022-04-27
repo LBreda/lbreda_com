@@ -18,7 +18,7 @@ show_title: true
             <h3 class="text-4xl my-4">Which cookies do this website install?</h3>
             <h4 class="text-3xl my-4">Technical cookies</h4>
             <p>The technical cookies are needed for the website to work, and they dont gather any personal data</p>
-            <p>The only technical cookies this website install is <tt>lbredacom-cookiebanner-accepted</tt>, which
+            <p>The only technical cookies this website install is <code>lbredacom-cookiebanner-accepted</code>, which
                 does not expire and which saves the acceptance of this policy.</p>
 
             <h4 class="text-3xl my-4">Tracking cookies</h4>
@@ -63,48 +63,6 @@ show_title: true
                 </tr>
                 </tbody>
             </table>
-
-            <h4 class="text-3xl my-4">Third-party cookies</h4>
-            <p>Third-party cookies are not managed by the website owner, but are installed by external services
-                the website uses.</p>
-
-            <p>This site gathers some anonymous statistical information using  <strong>Google Analytics</strong>.</p>
-
-            <p>The cookies Google Analytics installs are:</p>
-
-            <table class="table-auto">
-                <thead>
-                <tr>
-                    <th>Cookie name</th>
-                    <th>Expiration time</th>
-                    <th>Function</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td>
-                        <code>_ga</code>
-                    </td>
-                    <td>2 years</td>
-                    <td>This cookie contains a randomly-generated id used to anonymously identify the visitor.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <code>_gat</code>
-                    </td>
-                    <td>10 minutes</td>
-                    <td>This cookie avoids to consider too many subsequent requests as a single visit.
-                    </td>
-                </tr>
-                </tbody>
-            </table>
-
-            <p>These cookies data are treated by Google Inc. in the United States of America, and Google has
-                <a href="https://support.google.com/analytics/answer/6004245">its own privacy policy</a>.</p>
-
-            <p>If you don't want to install these cookies, you can avoid it with the <a
-                        href="http://tools.google.com/dlpage/gaoptout?hl=it">opt-out procedure</a>.</p>
 
             <h3 class="text-4xl my-4">How can I control the cookies installation?</h3>
             <p>Additionally, you can control the cookie-related settings in your web browser preferences. Your browser
