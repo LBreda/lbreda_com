@@ -138,7 +138,7 @@
           },
           "worksFor": {
             "@type": "Organization",
-            "name: "TwoBeeSolution S.r.l.",
+            "name": "TwoBeeSolution S.r.l.",
             "vatID": "IT11254281006",
             "url": https://www.twobeesolution.com/",
           }
