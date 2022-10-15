@@ -18,8 +18,8 @@ show_title: true
                     <a href="https://fb.com/lbreda" rel="me">Facebook</a>
                 </li>
                 <li>
-                    <span class="fa-li"><i class="fab fa-facebook"></i></span>
-                    <a href="https://fb.com/lbreda" rel="me">Facebook</a>
+                    <span class="fa-li"><i class="fab fa-mastodon"></i></span>
+                    <a href="https://livellosegreto.it/web/@lbreda" rel="me">Mastodon</a>
                 </li>
                 <li>
                     <span class="fa-li"><i class="fab fa-instagram"></i></span>
@@ -30,8 +30,8 @@ show_title: true
                     <a href="https://profile.codersrank.io/user/lbreda/" rel="me">CodersRank</a>
                 </li>
                 <li>
-                    <span class="fa-li"><i class="fab fa-mastodon"></i></span>
-                    <a href="https://livellosegreto.it/web/@lbreda" rel="me">Mastodon</a>
+                    <span class="fa-li"><i class="fab fa-linkedin"></i></span>
+                    <a href="https://it.linkedin.com/in/lbreda" rel="me">LinkedIn</a>
                 </li>
             </ul>
         </x-box>
