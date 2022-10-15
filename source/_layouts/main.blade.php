@@ -21,7 +21,7 @@
     <meta property="og:description" content="Lorenzo Breda - Freelance Web Developer">
     
     <!-- Mastodon -->
-    <a rel="me" href="https://livellosegreto.it/@lbreda">@lbreda@livellosegreto.it</a>
+    <link rel="me" href="https://livellosegreto.it/@lbreda">@lbreda@livellosegreto.it</a>
 </head>
 <body>
 <nav class="sticky top-0 x-50 bg-primary text-white" x-data="{ isMobileMenuShowing: false }">
