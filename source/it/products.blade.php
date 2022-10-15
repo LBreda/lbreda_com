@@ -45,7 +45,7 @@ show_title: true
             <img src="/assets/images/bricksetbot.jpg" class="mb-4">
             <x-p>
                 <a href="https://t.me/brickset_bot">BricksetBot</a> è un inline bot per ottenere
-                informazioni su set LEGO®️ dal database di <a href="https://brickset.com/">Brickset</a>.
+                informazioni su set LEGO® dal database di <a href="https://brickset.com/">Brickset</a>.
             </x-p>
             <x-p>
                 Può riportare in qualsiasi conversazione Telegram le principali informazioni e
