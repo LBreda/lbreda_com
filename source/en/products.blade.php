@@ -41,6 +41,19 @@ show_title: true
                 The source code is available <a href="https://github.com/LBreda/moviedbbot">on GitHub</a>.
             </x-p>
         </x-box>
+        <x-box title="BricksetBot">
+            <img src="/assets/images/bricksetbot.jpg" class="mb-4">
+            <a>
+                <a href="https://t.me/brickset_bot">BricksetBot</a> is a inline bot for Telegram. It can
+                be used to get information LEGO®️ sets from the <a href="https://brickset.com/">Brickset</a> database.
+            </x-p>
+            <x-p>
+                It can print on any Telegram chat some information and the photo of the set.
+            </x-p>
+            <x-p>
+                The source code is available <a href="https://github.com/LBreda/bricksetbot">on GitHub</a>.
+            </x-p>
+        </x-box>
         <x-box title="Letterboxd Client">
             <img src="/assets/images/letterboxd_client.png" class="mb-4">
             <x-p>
