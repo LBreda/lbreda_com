@@ -31,16 +31,14 @@ show_title: false
             </x-p>
         </x-box>
 
-        <x-box title="Where">
+        <x-box title="WHat">
             <x-p>
-                I work for <a href="https://twobeesolution.com">TwoBeeSolution</a>, a company which
-                designs and develops web-based solutions to simple and complex problems.
+                I design and develop software solutions (mainly web-based) and I collaborate in the
+                implementation and maintenance of the necessary hardware infrastructure.
+                My CV is <a href="https://raw.githubusercontent.com/LBreda/cv/master/cv_en.pdf">here</a>.
             </x-p>
             <x-p>
-                I also work as a freelance, on projects TwoBeeSolutions is not interested in.
-            </x-p>
-            <x-p>
-                Some of my personal projects are available on <a href="https://github.com/lbreda">GitHub</a>.
+                Some of my personal side projects are available on <a href="https://github.com/lbreda">GitHub</a>.
             </x-p>
         </x-box>
 

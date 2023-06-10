@@ -27,22 +27,18 @@ show_title: false
                 Laravel, e amo occuparmi piú del back-end che del front-end, pur lavorando in
                 entrambi gli ambiti.
             </x-p>
-            <x-p>
-                Per lavoro, mi occupo di progettazione di soluzioni.
-            </x-p>
         </x-box>
 
-        <x-box title="Dove">
+        <x-box title="Cosa">
             <x-p>
-                Lavoro per la <a href="https://twobeesolution.com">TwoBeeSolution</a>, un'azienda
-                che sviluppa soluzioni software di vario genere e complessità.
+                Nel mio lavoro mi occupo di progettare e realizzare soluzioni software, soprattutto
+                web-based, e collaboro alla progettazione e alla manutenzione delle infrastrutture
+                necessarie a ospitarle. Il mio CV è
+                <a href="https://raw.githubusercontent.com/LBreda/cv/master/cv_it.pdf">qui</a>.
             </x-p>
             <x-p>
-                Lavoro anche in proprio, dove vi siano cose di cui la TwoBeeSolution non si occupa.
-            </x-p>
-            <x-p>
-                Su <a href="https://github.com/lbreda">GitHub</a> si trovano invece buona parte dei
-                miei progetti personali.
+                Su <a href="https://github.com/lbreda">GitHub</a> si trovano buona parte dei miei
+                progetti personali, non legati al mio lavoro vero e proprio.
             </x-p>
         </x-box>
 
