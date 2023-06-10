@@ -31,7 +31,7 @@ show_title: false
             </x-p>
         </x-box>
 
-        <x-box title="WHat">
+        <x-box title="What">
             <x-p>
                 I design and develop software solutions (mainly web-based) and I collaborate in the
                 implementation and maintenance of the necessary hardware infrastructure.
