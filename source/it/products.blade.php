@@ -71,5 +71,15 @@ show_title: true
                 nella pagina del progetto Nuovi Media, a cui collaboro.
             </x-p>
         </x-box>
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4">
+            <x-p>
+                <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
+                la console <a href="https://play.date">Playdate</a>.
+            </x-p>
+            <x-p>
+                Ricordare la posizione della manovella per una carta è meno facile di quel che sembri!
+            </x-p>
+        </x-box>
     </div>
 @endsection

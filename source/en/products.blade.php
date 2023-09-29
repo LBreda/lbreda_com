@@ -68,5 +68,15 @@ show_title: true
                 in the Nuovi Media project page. I am a collaborator.
             </x-p>
         </x-box>
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4">
+            <x-p>
+                <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
+                for the <a href="https://play.date">Playdate</a> console.
+            </x-p>
+            <x-p>
+                Remembering the crank position for a card isn't as easy as it seems.
+            </x-p>
+        </x-box>
     </div>
 @endsection
