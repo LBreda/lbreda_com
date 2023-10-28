@@ -14,17 +14,14 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="COVID19 IT">
-            <img src="/assets/images/covid.jpg" class="mb-4">
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4">
             <x-p>
-                <a href="https://covid19.lbreda.com/">COVID19 IT</a> is a system which automatically
-                generates some views using data about the SARS-CoV-2 pandemic in Italy.
+                <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
+                for the <a href="https://play.date">Playdate</a> console.
             </x-p>
             <x-p>
-                It updates itself when new official data is available.
-            </x-p>
-            <x-p>
-                The source code is available <a href="https://github.com/LBreda/covid19_it">on GitHub</a>.
+                Remembering the crank position for a card isn't as easy as it seems.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
@@ -68,14 +65,17 @@ show_title: true
                 in the Nuovi Media project page. I am a collaborator.
             </x-p>
         </x-box>
-        <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4">
+        <x-box title="COVID19 IT">
+            <img src="/assets/images/covid.jpg" class="mb-4">
             <x-p>
-                <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
-                for the <a href="https://play.date">Playdate</a> console.
+                <a href="https://covid19.lbreda.com/">COVID19 IT</a> is a system which automatically
+                generates some views using data about the SARS-CoV-2 pandemic in Italy.
             </x-p>
             <x-p>
-                Remembering the crank position for a card isn't as easy as it seems.
+                It updates itself when new official data is available.
+            </x-p>
+            <x-p>
+                The source code is available <a href="https://github.com/LBreda/covid19_it">on GitHub</a>.
             </x-p>
         </x-box>
     </div>

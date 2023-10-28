@@ -14,17 +14,14 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="COVID19 IT">
-            <img src="/assets/images/covid.jpg" class="mb-4">
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4">
             <x-p>
-                <a href="https://covid19.lbreda.com/">COVID19 IT</a> è un sistema che genera
-                automaticamente viste sui dati riguardanti la pandemia da SARS-CoV-2 in Italia.
+                <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
+                la console <a href="https://play.date">Playdate</a>.
             </x-p>
             <x-p>
-                Aggiorna automaticamente i grafici ogni volta che escono nuovi dati ufficiali.
-            </x-p>
-            <x-p>
-                Il codice è disponibile <a href="https://github.com/LBreda/covid19_it">su GitHub</a>.
+                Ricordare la posizione della manovella per una carta è meno facile di quel che sembri!
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
@@ -71,14 +68,17 @@ show_title: true
                 nella pagina del progetto Nuovi Media, a cui collaboro.
             </x-p>
         </x-box>
-        <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4">
+        <x-box title="COVID19 IT">
+            <img src="/assets/images/covid.jpg" class="mb-4">
             <x-p>
-                <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
-                la console <a href="https://play.date">Playdate</a>.
+                <a href="https://covid19.lbreda.com/">COVID19 IT</a> è un sistema che genera
+                automaticamente viste sui dati riguardanti la pandemia da SARS-CoV-2 in Italia.
             </x-p>
             <x-p>
-                Ricordare la posizione della manovella per una carta è meno facile di quel che sembri!
+                Aggiorna automaticamente i grafici ogni volta che escono nuovi dati ufficiali.
+            </x-p>
+            <x-p>
+                Il codice è disponibile <a href="https://github.com/LBreda/covid19_it">su GitHub</a>.
             </x-p>
         </x-box>
     </div>
