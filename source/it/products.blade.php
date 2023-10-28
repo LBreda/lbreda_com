@@ -15,7 +15,7 @@ show_title: true
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
         <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4">
+            <img src="/assets/images/couples.jpg" class="mb-4" alt="Screenshot del gioco">
             <x-p>
                 <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
                 la console <a href="https://play.date">Playdate</a>.
@@ -25,7 +25,7 @@ show_title: true
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
-            <img src="/assets/images/moviedbbot.jpg" class="mb-4">
+            <img src="/assets/images/moviedbbot.jpg" class="mb-4" alt="Screenshot di una interazione con MovieDbBot">
             <x-p>
                 <a href="https://t.me/moviedbbot">MovieDbBot</a> è un inline bot per ottenere
                 informazioni su cast, film e serie TV da The Movie DB.
@@ -39,7 +39,7 @@ show_title: true
             </x-p>
         </x-box>
         <x-box title="BricksetBot">
-            <img src="/assets/images/bricksetbot.jpg" class="mb-4">
+            <img src="/assets/images/bricksetbot.jpg" class="mb-4" alt="Screenshot di una interazione con BrickSetBot">
             <x-p>
                 <a href="https://t.me/brickset_bot">BricksetBot</a> è un inline bot per ottenere
                 informazioni su set LEGO® dal database di <a href="https://brickset.com/">Brickset</a>.
@@ -53,7 +53,8 @@ show_title: true
             </x-p>
         </x-box>
         <x-box title="Letterboxd Client">
-            <img src="/assets/images/letterboxd_client.png" class="mb-4">
+            <img src="/assets/images/letterboxd_client.png" class="mb-4"
+                 alt="Screenshot della pagina GitHub di LetterboxdClient">
             <x-p>
                 Letterboxd Client è una libreria Laravel che fa da client
                 per le API di Letterboxd, un completo database di informazioni
@@ -69,7 +70,7 @@ show_title: true
             </x-p>
         </x-box>
         <x-box title="COVID19 IT">
-            <img src="/assets/images/covid.jpg" class="mb-4">
+            <img src="/assets/images/covid.jpg" class="mb-4" alt="Screenshot del sito">
             <x-p>
                 <a href="https://covid19.lbreda.com/">COVID19 IT</a> è un sistema che genera
                 automaticamente viste sui dati riguardanti la pandemia da SARS-CoV-2 in Italia.

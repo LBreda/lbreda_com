@@ -9,7 +9,7 @@ show_title: false
     <div class="bg-secondary">
         <div class="container mx-auto min-h-[16rem] flex flex-wrap content-evenly items-center px-2 py-4">
             <div class="flex flex-1 w-full justify-center sm:w-min sm:justify-start">
-                <img src="/assets/images/foto.jpg" class="rounded-full w-32 h-32">
+                <img src="/assets/images/foto.jpg" class="rounded-full w-32 h-32"  alt="Portrait photo of Lorenzo">
             </div>
             <div class="flex content-end hidden sm:block">
                 <h2 class="text-7xl">Sono Lorenzo. Risolvo problemi.</h2>
