@@ -21,6 +21,24 @@
     th, td {
         @apply border-t-2
     }
+
+    #page-container {
+        position: relative;
+        min-height: 100vh;
+    }
+
+    #page-body {
+        padding-bottom: 6rem;
+    }
+
+    footer {
+        position: absolute;
+        bottom: 0;
+        height: 6rem;
+        width: 100vw;
+    }
+
+    [x-cloak] { display: none !important; }
 }
 
 @layer utilities {
@@ -28,5 +46,3 @@
         color: transparent;
     }
 }
-
-[x-cloak] { display: none !important; }
