@@ -89,68 +89,122 @@
     @include("_partials.{$page->language}.cookie_banner")
 </div>
 <script type="application/ld+json">
-        {
-          "@context": "https://schema.org/",
-          "@type": "Person",
-          "name": "Lorenzo Breda",
-          "familyName": "Breda",
-          "givenName": "Lorenzo",
-          "gender": "male",
-          "nationality": {
-            "@type": "Country",
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "name": "Lorenzo Breda",
+      "familyName": "Breda",
+      "givenName": "Lorenzo",
+      "gender": "male",
+      "nationality": {
+        "@type": "Country",
+        "name": "Italy"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": {
+          "@type": "Country",
             "name": "Italy"
           },
+          "addressLocality": "Rome"
+      },
+      "url": "https://www.lbreda.com",
+      "birthDate": "1988-04-07",
+      "birthPlace": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": {
+            "@type": "Country",
+            "name": "Italy"
+            },
+          "addressLocality": "Rome"
+        }
+      },
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "Italian",
+          "alternateName": "it"
+        },
+        {
+          "@type": "Language",
+          "name": "English",
+          "alternateName": "en"
+        }
+      ],
+      "image": "https://lbreda.com/assets/images/foto.jpg",
+      "jobTitle": "Computer systems analyst and developer",
+      "vatID": "IT13225651002",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Computer systems analyst and developer",
+        "occupationalCategory": {
+          "@type": "CategoryCode",
+          "inCodeSet": {
+            "@type": "CategoryCodeSet",
+            "name": "O*Net-SOC",
+            "dateModified": "2019",
+            "url": "https://www.onetonline.org/"
+          },
+          "codeValue": "15-1211.00",
+          "name": "Computer Systems Analysts",
+          "url": "https://www.onetonline.org/link/summary/15-1252.00"
+        },
+        "occupationLocation": {
+          "@type": "AdministrativeArea",
           "address": {
             "@type": "PostalAddress",
             "addressCountry": {
               "@type": "Country",
-                "name": "Italy"
-              },
-              "addressLocality": "Rome"
+              "name": "Vatican City"
+            },
+            "postalCode": "00120",
+            "streetAddress": "Via della Posta"
+          }
+        }
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Servizio Provider Internet",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": {
+            "@type": "Country",
+            "name": "Vatican City"
           },
-          "url": "https://www.lbreda.com",
-          "birthDate": "1988-04-07",
-          "birthPlace": {
-            "@type": "Place",
+          "postalCode": "00120",
+          "streetAddress": "Via della Posta"
+        },
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Direzione delle Telecomunicazioni e dei Sistemi Informatici",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+              "@type": "Country",
+              "name": "Vatican City"
+            },
+            "postalCode": "00120",
+            "streetAddress": "Palazzo del Belvedere, Via della Posta"
+          },
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Governatorato dello Stato della Città del Vaticano",
             "address": {
               "@type": "PostalAddress",
               "addressCountry": {
                 "@type": "Country",
-                "name": "Italy"
-                },
-              "addressLocality": "Rome"
-            }
-          },
-          "image": "https://lbreda.com/img/foto.jpg",
-          "jobTitle": "Full-stack Engineer",
-          "vatID": "IT13225651002",
-          "hasOccupation": {
-            "@type": "Occupation",
-            "occupationalCategory": {
-              "@type": "CategoryCode",
-              "name": "BLS O*NET-SOC 15-1252.00",
-              "description": "Software Developers"
+                "name": "Vatican City"
+              },
+              "postalCode": "00120",
+              "streetAddress": "Palazzo del Governatorato"
             },
-            "occupationLocation": {
-              "@type": "AdministrativeArea",
-              "address": {
-                "@type": "PostalAddress",
-                "addressCountry": {
-                  "@type": "Country",
-                  "name": "Italy"
-                },
-                "addressLocality": "Rome"
-              }
-            }
-          },
-          "worksFor": {
-            "@type": "Organization",
-            "name": "TwoBeeSolution S.r.l.",
-            "vatID": "IT11254281006",
-            "url": https://www.twobeesolution.com/",
+            "url": "https://www.vaticanstate.va/"
           }
         }
-
+      }
+    }
 </script>
 </body>
 </html>
