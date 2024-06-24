@@ -8,6 +8,9 @@ module.exports = {
     'source/**/*.html',
   ],
   theme: {
+    fontFamily: {
+      sans: ['"Noto Sans"', 'sans-serif'],
+    },
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
