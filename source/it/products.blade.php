@@ -14,14 +14,17 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4" alt="Screenshot del gioco">
+        <x-box title="MensaScolasticaBot">
+            <img src="/assets/images/mensascolasticabot.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaBot">
             <x-p>
-                <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
-                la console <a href="https://play.date">Playdate</a>.
+                <a href="https://t.me/mensascolasticabot">MensaScolasticaBot</a> è un bot per ottenere ogni giorno la
+                notifica del menu della mensa scolastica comunale a Roma.
             </x-p>
             <x-p>
-                Ricordare la posizione della manovella per una carta è meno facile di quel che sembri!
+                Rende anche possibile ottenere in qualsiasi momento il menu del giorno corrente e di quello successivo.
+            </x-p>
+            <x-p>
+                Il codice è disponibile <a href="https://github.com/LBreda/mensascolasticabot">su GitHub</a>.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
@@ -50,6 +53,16 @@ show_title: true
             </x-p>
             <x-p>
                 Il codice è disponibile <a href="https://github.com/LBreda/bricksetbot">su GitHub</a>.
+            </x-p>
+        </x-box>
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4" alt="Screenshot del gioco">
+            <x-p>
+                <a href="https://lbreda.itch.io/couples">Couples</a> è un gioco di tipo <em>Memory</em> per
+                la console <a href="https://play.date">Playdate</a>.
+            </x-p>
+            <x-p>
+                Ricordare la posizione della manovella per una carta è meno facile di quel che sembri!
             </x-p>
         </x-box>
         <x-box title="Letterboxd Client">

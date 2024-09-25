@@ -14,14 +14,17 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4" alt="Game screenshot">
+        <x-box title="MensaScolasticaBot">
+            <img src="/assets/images/mensascolasticabot.jpg" class="mb-4" alt="MensaScolasticaBot interaction screenshot">
             <x-p>
-                <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
-                for the <a href="https://play.date">Playdate</a> console.
+                <a href="https://t.me/mensascolasticabot">MensaScolasticaBot</a> is a Telegram bot to get every day a
+                notification with the daily menu in the city council managed school canteens.
             </x-p>
             <x-p>
-                Remembering the crank position for a card isn't as easy as it seems.
+                It can also print in any moment the menu for the current and the next day.
+            </x-p>
+            <x-p>
+                The source code is available <a href="https://github.com/LBreda/mensascolasticabot">on GitHub</a>.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
@@ -49,6 +52,16 @@ show_title: true
             </x-p>
             <x-p>
                 The source code is available <a href="https://github.com/LBreda/bricksetbot">on GitHub</a>.
+            </x-p>
+        </x-box>
+        <x-box title="Couples">
+            <img src="/assets/images/couples.jpg" class="mb-4" alt="Game screenshot">
+            <x-p>
+                <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
+                for the <a href="https://play.date">Playdate</a> console.
+            </x-p>
+            <x-p>
+                Remembering the crank position for a card isn't as easy as it seems.
             </x-p>
         </x-box>
         <x-box title="Letterboxd Client">
