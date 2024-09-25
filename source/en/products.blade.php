@@ -14,17 +14,17 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="MensaScolasticaBot">
-            <img src="/assets/images/mensascolasticabot.jpg" class="mb-4" alt="MensaScolasticaBot interaction screenshot">
+        <x-box title="MensaScolasticaRomaBot">
+            <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="MensaScolasticaRomaBot interaction screenshot">
             <x-p>
-                <a href="https://t.me/mensascolasticabot">MensaScolasticaBot</a> is a Telegram bot to get every day a
+                <a href="https://t.me/mensascolasticaromabot">MensaScolasticaRomaBot</a> is a Telegram bot to get every day a
                 notification with the daily menu in the city council managed school canteens.
             </x-p>
             <x-p>
                 It can also print in any moment the menu for the current and the next day.
             </x-p>
             <x-p>
-                The source code is available <a href="https://github.com/LBreda/mensascolasticabot">on GitHub</a>.
+                The source code is available <a href="https://github.com/LBreda/mensascolasticaromabot">on GitHub</a>.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">

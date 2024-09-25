@@ -14,17 +14,17 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="MensaScolasticaBot">
-            <img src="/assets/images/mensascolasticabot.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaBot">
+        <x-box title="MensaScolasticaRomaBot">
+            <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
             <x-p>
-                <a href="https://t.me/mensascolasticabot">MensaScolasticaBot</a> è un bot per ottenere ogni giorno la
+                <a href="https://t.me/mensascolasticaromabot">MensaScolasticaRomaBot</a> è un bot per ottenere ogni giorno la
                 notifica del menu della mensa scolastica comunale a Roma.
             </x-p>
             <x-p>
                 Rende anche possibile ottenere in qualsiasi momento il menu del giorno corrente e di quello successivo.
             </x-p>
             <x-p>
-                Il codice è disponibile <a href="https://github.com/LBreda/mensascolasticabot">su GitHub</a>.
+                Il codice è disponibile <a href="https://github.com/LBreda/mensascolasticaromabot">su GitHub</a>.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
