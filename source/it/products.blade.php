@@ -14,17 +14,19 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="MensaScolasticaRomaBot">
-            <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
+        <x-box title="Geometra Breda">
+            <img src="/assets/images/geometrabreda.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
             <x-p>
-                <a href="https://t.me/mensascolasticaromabot">MensaScolasticaRomaBot</a> è un bot per ottenere ogni giorno la
-                notifica del menu della mensa scolastica comunale a Roma.
+                Il sito del <a href="https://geometrabreda.com">geometra Damiano Breda</a> è un sito vetrina per i servizi
+                offerti da un geometra.
             </x-p>
             <x-p>
-                Rende anche possibile ottenere in qualsiasi momento il menu del giorno corrente e di quello successivo.
+                Offre sia una modalità di visualizzazione con colori chiari che una con colori scuri, a seconda delle
+                impostazioni del browser.
             </x-p>
             <x-p>
-                Il codice è disponibile <a href="https://github.com/LBreda/mensascolasticaromabot">su GitHub</a>.
+                Ne ho curato la realizzazione tecnica e ho offerto una consulenza per quanto riguarda la struttura dei
+                contenuti.
             </x-p>
         </x-box>
         <x-box title="MovieDbBot">
