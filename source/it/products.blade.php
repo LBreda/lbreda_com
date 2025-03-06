@@ -29,6 +29,19 @@ show_title: true
                 contenuti.
             </x-p>
         </x-box>
+        <x-box title="MensaScolasticaRomaBot">
+            <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
+            <x-p>
+                <a href="https://t.me/mensascolasticaromabot">MensaScolasticaRomaBot</a> è un bot per ottenere ogni giorno la
+                notifica del menu della mensa scolastica comunale a Roma.
+            </x-p>
+            <x-p>
+                Rende anche possibile ottenere in qualsiasi momento il menu del giorno corrente e di quello successivo.
+            </x-p>
+            <x-p>
+                Il codice è disponibile <a href="https://github.com/LBreda/mensascolasticaromabot">su GitHub</a>.
+            </x-p>
+        </x-box>
         <x-box title="MovieDbBot">
             <img src="/assets/images/moviedbbot.jpg" class="mb-4" alt="Screenshot di una interazione con MovieDbBot">
             <x-p>
