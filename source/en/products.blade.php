@@ -14,6 +14,19 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
+        <x-box title="Geometra Breda">
+            <img src="/assets/images/geometrabreda.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
+            <x-p>
+                <a href="https://geometrabreda.com">Damiano Breda</a>'s website showcases the services offered by a
+                surveyor in Rome, Italy.
+            </x-p>
+            <x-p>
+                It provides both a light-color and a dark-color display mode, depending on browser settings.
+            </x-p>
+            <x-p>
+                I was responsible for its technical implementation and offered advice regarding the structure of its content.
+            </x-p>
+        </x-box>
         <x-box title="MensaScolasticaRomaBot">
             <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="MensaScolasticaRomaBot interaction screenshot">
             <x-p>

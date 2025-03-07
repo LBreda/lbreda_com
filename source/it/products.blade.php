@@ -21,7 +21,7 @@ show_title: true
                 offerti da un geometra.
             </x-p>
             <x-p>
-                Offre sia una modalità di visualizzazione con colori chiari che una con colori scuri, a seconda delle
+                Rende disponibile sia una modalità di visualizzazione con colori chiari che una con colori scuri, a seconda delle
                 impostazioni del browser.
             </x-p>
             <x-p>
