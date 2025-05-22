@@ -14,8 +14,7 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
-        <x-box title="Geometra Breda">
-            <img src="/assets/images/geometrabreda.jpg" class="mb-4" alt="Screenshot di una interazione con MensaScolasticaRomaBot">
+        <x-box title="Geometra Breda" image="/assets/images/geometrabreda.jpg" image-alt="Screenshot di una interazione con MensaScolasticaRomaBot">
             <x-p>
                 <a href="https://geometrabreda.com">Damiano Breda</a>'s website showcases the services offered by a
                 surveyor in Rome, Italy.
@@ -27,8 +26,7 @@ show_title: true
                 I was responsible for its technical implementation and offered advice regarding the structure of its content.
             </x-p>
         </x-box>
-        <x-box title="MensaScolasticaRomaBot">
-            <img src="/assets/images/mensascolasticaromabot.jpg" class="mb-4" alt="MensaScolasticaRomaBot interaction screenshot">
+        <x-box title="MensaScolasticaRomaBot" image="/assets/images/mensascolasticaromabot.jpg" image-alt="MensaScolasticaRomaBot interaction screenshot">
             <x-p>
                 <a href="https://t.me/mensascolasticaromabot">MensaScolasticaRomaBot</a> is a Telegram bot to get every day a
                 notification with the daily menu in the city council managed school canteens.
@@ -40,8 +38,7 @@ show_title: true
                 The source code is available <a href="https://github.com/LBreda/mensascolasticaromabot">on GitHub</a>.
             </x-p>
         </x-box>
-        <x-box title="MovieDbBot">
-            <img src="/assets/images/moviedbbot.jpg" class="mb-4" alt="MovieDbBot interaction screenshot">
+        <x-box title="MovieDbBot" image="/assets/images/moviedbbot.jpg" image-alt="MovieDbBot interaction screenshot">
             <x-p>
                 <a href="https://t.me/moviedbbot">MovieDbBot</a> is a inline bot for Telegram. It can
                 be used to get information about a movie, a TV show or an actor.
@@ -54,8 +51,7 @@ show_title: true
                 The source code is available <a href="https://github.com/LBreda/moviedbbot">on GitHub</a>.
             </x-p>
         </x-box>
-        <x-box title="BricksetBot">
-            <img src="/assets/images/bricksetbot.jpg" class="mb-4" alt="BricksetBot interaction screenshot">
+        <x-box title="BricksetBot" image="/assets/images/bricksetbot.jpg" image-alt="BricksetBot interaction screenshot">
             <x-p>
                 <a href="https://t.me/brickset_bot">BricksetBot</a> is a inline bot for Telegram. It can
                 be used to get information LEGO® sets from the <a href="https://brickset.com/">Brickset</a> database.
@@ -67,8 +63,7 @@ show_title: true
                 The source code is available <a href="https://github.com/LBreda/bricksetbot">on GitHub</a>.
             </x-p>
         </x-box>
-        <x-box title="Couples">
-            <img src="/assets/images/couples.jpg" class="mb-4" alt="Game screenshot">
+        <x-box title="Couples" image="/assets/images/couples.jpg" image-alt="Game screenshot">
             <x-p>
                 <a href="https://lbreda.itch.io/couples">Couples</a> is a little <em>Memory</em>-type game per
                 for the <a href="https://play.date">Playdate</a> console.
@@ -77,8 +72,7 @@ show_title: true
                 Remembering the crank position for a card isn't as easy as it seems.
             </x-p>
         </x-box>
-        <x-box title="Letterboxd Client">
-            <img src="/assets/images/letterboxd_client.png" class="mb-4" alt="Letterboxd Client GitHub page screenshot">
+        <x-box title="Letterboxd Client" image="/assets/images/letterboxd_client.png" image-alt="Letterboxd Client GitHub page screenshot">
             <x-p>
                 Letterboxd Client is a Laravel library to interact with the Letterboxd API.
                 Letterboxd is a vast database about movies and actors.
@@ -91,8 +85,7 @@ show_title: true
                 in the Nuovi Media project page. I am a collaborator.
             </x-p>
         </x-box>
-        <x-box title="COVID19 IT">
-            <img src="/assets/images/covid.jpg" class="mb-4" alt="Website's screenshot">
+        <x-box title="COVID19 IT" image="/assets/images/covid.jpg" image-alt="Website's screenshot">
             <x-p>
                 <a href="https://covid19.lbreda.com/">COVID19 IT</a> is a system which automatically
                 generates some views using data about the SARS-CoV-2 pandemic in Italy.

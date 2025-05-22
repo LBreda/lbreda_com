@@ -1,6 +1,11 @@
-<div class="box-content px-4 pb-4 my-4 border border-secondary rounded">
-    <div class="flex items-center bg-secondary -mx-4 mb-4 px-4 h-10 rounded-t">
+<div class="flex flex-col box-content my-4 shadow-lg rounded-b-xl ">
+    <div class="flex items-center bg-primary text-white px-4 rounded-t-xl h-12">
         <h3 class="text-xl">{{ $title }}</h3>
     </div>
-    {{ $slot }}
+    @if($image ?? false)
+        <img src="{{ $image }}" alt="{{ $imageAlt }}" class="w-full">
+    @endif
+    <div class="flex-grow p-4">
+        {{ $slot }}
+    </div>
 </div>
