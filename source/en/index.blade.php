@@ -18,38 +18,37 @@ show_title: false
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
 
-        <x-box title="Who">
+        <x-box title="Analysis and Design">
             <x-p>
-                I'm a software developer in Rome, Italy, and I mainly work as a web applications developer.
+                Do you have a problem or a process that you believe could be simplified using some software?
             </x-p>
             <x-p>
-                I'm a expert php developer, and I mainly work with the Laravel framework, which
-                I love. I prefer to work on the backend, but I also have experience with the frontend.
+                I'll work with you to analyze the issue, to create a solution that satisfies you, either
+                using available software or developing a custom one.
             </x-p>
             <x-p>
-                I also work as an analyst and a problem solver.
-            </x-p>
-        </x-box>
-
-        <x-box title="What">
-            <x-p>
-                I design and develop software solutions (mainly web-based) and I collaborate in the
-                implementation and maintenance of the necessary hardware infrastructure.
-                My CV is <a href="https://raw.githubusercontent.com/LBreda/cv/master/cv_en.pdf">here</a>.
-            </x-p>
-            <x-p>
-                Some of my personal side projects are available on <a href="https://github.com/lbreda">GitHub</a>.
+                I have more than ten years of experience in analyzing industrial and bureaucratic processes in order to
+                computerize them, and I offer you all of it.
             </x-p>
         </x-box>
 
-        <x-box title="Do you need me?">
+        <x-box title="Software Development">
             <x-p>
-                If you have a problem and you think a good software can solve it, yes, you do need me.
+                If a web-based software is the solution you're looking for, and you can't find it on the market, I can create it for you.
             </x-p>
             <x-p>
-                You can reach me on the "contacts" section of this website, and we can work it out together.
+                I have a long experience in developing web applications, and I use state-of-the-art technologies
+                to create well-documented and easy to maintain software. I'm also experienced in developing
+                mobile friendly web applications.
             </x-p>
         </x-box>
 
+        <x-box title="Consulting">
+            <x-p>
+                If you need IT consulting in managing a project, I can help you. I can organize
+                your ideas, plan processes, create documentation, and assist your team in
+                the most delicate operations.
+            </x-p>
+        </x-box>
     </div>
 @endsection
