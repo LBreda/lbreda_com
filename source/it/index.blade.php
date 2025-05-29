@@ -23,7 +23,7 @@ show_title: false
                 Hai un problema o un processo che pensi possa essere semplificato con un software?
             </x-p>
             <x-p>
-                Mi occupo di analizzare con te la questione, per realizzare una soluzione che ti soddisfi, sia
+                Mi occupo di analizzare con te la questione, per elaborare una soluzione che ti soddisfi, sia
                 utilizzando software presente sul mercato che realizzandone di apposito.
             </x-p>
             <x-p>
@@ -38,7 +38,7 @@ show_title: false
             </x-p>
             <x-p>
                 Ho una lunga esperienza nella realizzazione di applicativi web, e utilizzo tecnologie allo stato dell'arte
-                per realizzare software di qualità, ben documentato, facile da manutenere in futuro e facile da usare
+                per produrre software di qualità, ben documentato, facile da manutenere in futuro e facile da usare
                 tanto su PC quanto su dispositivi mobili.
             </x-p>
         </x-box>
@@ -46,7 +46,7 @@ show_title: false
         <x-box title="Consulenza">
             <x-p>
                 Se hai bisogno di consulenza informatica nel gestire un progetto, posso aiutarti. Posso mettere ordine
-                nelle tue idee, pianificare i processi, realizzare la documentazione, assistere il tuo team nelle
+                nelle tue idee, pianificare i processi, produrre la documentazione, assistere il tuo team nelle
                 operazioni piú delicate.
             </x-p>
         </x-box>
