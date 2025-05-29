@@ -14,6 +14,19 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
+        <x-box title="Centro Diurno l'Alberoblu" image="/assets/images/alberoblu.jpg" image-alt="Screenshot del sito del Centro Diurno">
+            <x-p>
+                The <a href="https://www.alberoblu.org">Centro Diurno L'Alberoblu</a> website showcases the activities
+                of the "L'Alberoblu" psychiatric day-care centre.
+            </x-p>
+            <x-p>
+                It provides both a light-color and a dark-color display mode, depending on browser settings, and it
+                contains a blog and a events feed.
+            </x-p>
+            <x-p>
+                I advised the customer about the structure of the website and I took care of its technical implementation.
+            </x-p>
+        </x-box>
         <x-box title="Geometra Breda" image="/assets/images/geometrabreda.jpg" image-alt="Screenshot di una interazione con MensaScolasticaRomaBot">
             <x-p>
                 <a href="https://geometrabreda.com">Damiano Breda</a>'s website showcases the services offered by a

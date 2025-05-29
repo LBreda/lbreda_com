@@ -14,6 +14,19 @@ show_title: true
         </p>
     </div>
     <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 sm:gap-4 px-2">
+        <x-box title="Centro Diurno l'Alberoblu" image="/assets/images/alberoblu.jpg" image-alt="Screenshot del sito del Centro Diurno">
+            <x-p>
+                Il sito del <a href="https://www.alberoblu.org">Centro Diurno L'Alberoblu</a> è il sito informativo di
+                un centro diurno psichiatrico.
+            </x-p>
+            <x-p>
+                Rende disponibile sia una modalità di visualizzazione con colori chiari che una con colori scuri, a seconda delle
+                impostazioni del browser, e include un blog e una sezione che rendiconta gli eventi organizzati dal Centro.
+            </x-p>
+            <x-p>
+                Ho offerto consulenza per la sua realizzazione, che ho poi curato.
+            </x-p>
+        </x-box>
         <x-box title="Geometra Breda" image="/assets/images/geometrabreda.jpg" image-alt="Screenshot del sito Geometra Breda">
             <x-p>
                 Il sito del <a href="https://geometrabreda.com">geometra Damiano Breda</a> è un sito vetrina per i servizi
