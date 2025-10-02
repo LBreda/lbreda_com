@@ -8,7 +8,7 @@ show_title: true
 @section('body')
     <div class="container mx-auto py-4 px-2">
         <p class="text-primary">
-            Alcuni dei miei progetti personali ti potrebbero essere utili. Sono tutti Open Source,
+            Alcuni dei miei progetti personali ti potrebbero essere utili. Alcuni sono Open Source,
             e liberamente utilizzabili senza neanche dirmi grazie. Se però vuoi dirmi grazie,
             fallo <a href="https://ko-fi.com/lbreda">da queste parti</a> :P
         </p>
