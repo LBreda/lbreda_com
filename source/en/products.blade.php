@@ -100,11 +100,11 @@ show_title: true
         </x-box>
         <x-box title="COVID19 IT" image="/assets/images/covid.jpg" image-alt="Website's screenshot">
             <x-p>
-                <a href="https://covid19.lbreda.com/">COVID19 IT</a> is a system which automatically
-                generates some views using data about the SARS-CoV-2 pandemic in Italy.
+                COVID19 IT was a system which automatically generates some views using data about the SARS-CoV-2
+                pandemic in Italy.
             </x-p>
             <x-p>
-                It updates itself when new official data is available.
+                It updated itself when new official data was available.
             </x-p>
             <x-p>
                 The source code is available <a href="https://github.com/LBreda/covid19_it">on GitHub</a>.

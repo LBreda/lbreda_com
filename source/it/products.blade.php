@@ -105,11 +105,11 @@ show_title: true
         </x-box>
         <x-box title="COVID19 IT" image="/assets/images/covid.jpg" image-alt="Screenshot del sito">
             <x-p>
-                <a href="https://covid19.lbreda.com/">COVID19 IT</a> è un sistema che genera
-                automaticamente viste sui dati riguardanti la pandemia da SARS-CoV-2 in Italia.
+                COVID19 IT è stato un sistema che generava automaticamente viste sui dati riguardanti la pandemia da
+                SARS-CoV-2 in Italia.
             </x-p>
             <x-p>
-                Aggiorna automaticamente i grafici ogni volta che escono nuovi dati ufficiali.
+                Aggiornava automaticamente i grafici ogni volta che uscivano nuovi dati ufficiali.
             </x-p>
             <x-p>
                 Il codice è disponibile <a href="https://github.com/LBreda/covid19_it">su GitHub</a>.
