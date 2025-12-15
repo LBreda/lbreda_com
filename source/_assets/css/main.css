@@ -197,6 +197,10 @@
         padding-bottom: 6rem;
     }
 
+    nav.sticky {
+        z-index: 100;
+    }
+
     footer {
         position: absolute;
         bottom: 0;
