@@ -3,6 +3,6 @@
         © Lorenzo Breda 2015 - <span x-text="new Date().getFullYear()"></span>
         <br>
         VAT no.: 13225651002<br>
-        <a href="/en/cookies">Cookie Policy</a>
+        <a href="/en/cookies">Cookie Policy</a> - <a href="/en/privacy">Privacy Policy</a>
     </p>
 </footer>

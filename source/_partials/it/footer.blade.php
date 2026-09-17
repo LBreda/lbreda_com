@@ -3,6 +3,6 @@
         © Lorenzo Breda 2015 - <span x-text="new Date().getFullYear()"></span>
         <br>
         Partita IVA: 13225651002<br>
-        <a href="/it/cookies">Cookie Policy</a>
+        <a href="/it/cookies">Cookie Policy</a> - <a href="/it/privacy">Privacy Policy</a>
     </p>
 </footer>
